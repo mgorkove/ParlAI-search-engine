@@ -1,6 +1,5 @@
 bs4
 chardet
-fairseq
 fire
 html2text
 html5lib
